@@ -27,3 +27,9 @@ python app.py
 ```bash
 python -m unittest discover -s tests
 ```
+## Known Issues
+- Flickering when program is in use
+
+## To-Do
+- Package app into .exe file
+- Unify window topbar to match main window color
