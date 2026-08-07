@@ -15,8 +15,8 @@ Z-Visualizer is a simple desktop audio spectrum analyzer for audio playing on yo
 ## Requirements
 - Python 3.10+
 - Windows (loopback capture support is designed for Windows playback devices)
-- Numpy 1.26.0+
-- Soundcard 0.4.3+
+- Numpy 1.26.0+ (if using direct .py app)
+- Soundcard 0.4.3+ (if using direct .py app)
 
 ## Usage
 There are two ways to set up:
