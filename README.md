@@ -22,9 +22,7 @@ Z-Visualizer is a simple desktop audio spectrum analyzer for audio playing on yo
 There are two ways 
 
 ## Run
-```bash
-python app.py
-```
+1. Run exe file
 
 ## Screenshots
 | ![](./assets/notinuse.png) | ![](./assets/image.png) |
