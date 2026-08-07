@@ -19,19 +19,13 @@ Z-Visualizer is a simple desktop audio spectrum analyzer for audio playing on yo
 - Soundcard 0.4.3+
 
 ## Setup
-```bash
-pip install -r requirements.txt
-```
+There are two ways 
 
 ## Run
 ```bash
 python app.py
 ```
 
-## Test
-```bash
-python -m unittest discover -s tests
-```
 ## Screenshots
 | ![](https://private-user-images.githubusercontent.com/209415989/632654725-b298e972-db85-417d-87c0-53cab9d7fde3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwNjIzNDcsIm5iZiI6MTc4NjA2MjA0NywicGF0aCI6Ii8yMDk0MTU5ODkvNjMyNjU0NzI1LWIyOThlOTcyLWRiODUtNDE3ZC04N2MwLTUzY2FiOWQ3ZmRlMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwODA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDgwN1QwMDIwNDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTAzNDQzMTFjNjQ1ZGZkNTE3OGVhZDM3ZmZmYjdhMGYwM2NkNDIyZTM4OWYwMDQ0YWYyNWZjNmRiMTlhY2ZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.M-7dueDndDaxpnxt83r4UcX81eJ0FJvSXUeWbYEQqfk) | ![](./assets/image.png) |
 |---------------------------------|-------------------------------|
