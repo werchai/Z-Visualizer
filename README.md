@@ -18,11 +18,10 @@ Z-Visualizer is a simple desktop audio spectrum analyzer for audio playing on yo
 - Numpy 1.26.0+
 - Soundcard 0.4.3+
 
-## Setup
-There are two ways 
-
-## Run
-1. Run exe file
+## Usage
+There are two ways to set up:
+1. Using the direct pure python program
+2. Downloading from the latest [Release](https://github.com/werchai/Z-Visualizer/releases), and using the exe file
 
 ## Screenshots
 | ![](./assets/notinuse.png) | ![](./assets/image.png) |
