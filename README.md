@@ -31,5 +31,5 @@ There are two ways to set up:
 - Flickering when program is in use
 
 ## To-Do
-- Package app into .exe file
-- Unify window topbar to match main window color
+- [x] Package app into .exe file
+- [ ] Unify window topbar to match main window color
