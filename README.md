@@ -5,6 +5,7 @@ Z-Visualizer is a simple desktop audio spectrum analyzer for audio playing on yo
 
 ![gre](https://img.shields.io/badge/chowitas%20guapo-8A2BE2)
 ![g](https://img.shields.io/github/contributors-anon/werchai/Z-Visualizer)
+![r](https://img.shields.io/github/commit-activity/w/werchai/Z-Visualizer)
 
 ## Features
 - Captures your system playback audio using a loopback recording device
